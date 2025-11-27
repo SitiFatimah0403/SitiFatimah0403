@@ -22,11 +22,6 @@
 
 ## 🌟 Siti Fatimah's GitHub Profile
 
-<img src="https://github-profile-pet.vercel.app/api/pet?pet=hamster&name=Siti&birth=2023-01-01" width="300">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SitiFatimah0403&theme=tokyo">
-
-
-
 ### 📈 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SitiFatimah0403&theme=react-dark&hide_border=true)
 
