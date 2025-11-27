@@ -22,8 +22,9 @@
 
 ## 🌟 Siti Fatimah's GitHub Profile
 
-![GitHub Pet](https://github-profile-pet.vercel.app/api/pet?name=Fatimah&pet=hamster)
-![Pixel Garden](https://github-stats-plane.vercel.app/api/pixel-garden?user=SitiFatimah0403)
+<img src="https://github-profile-pet.vercel.app/api/pet?pet=hamster&name=Siti&birth=2023-01-01" width="300">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SitiFatimah0403&theme=tokyo">
+
 
 
 ### 📈 Contribution Graph
