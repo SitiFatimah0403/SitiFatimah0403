@@ -23,6 +23,7 @@
 ## 🌟 Siti Fatimah's GitHub Profile
 
 ![GitHub Pet](https://github-profile-pet.vercel.app/api/pet?name=Fatimah&pet=hamster)
+![Pixel Garden](https://github-stats-plane.vercel.app/api/pixel-garden?user=SitiFatimah0403)
 
 
 ### 📈 Contribution Graph
