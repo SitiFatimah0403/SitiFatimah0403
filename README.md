@@ -22,6 +22,10 @@
 
 ## 🌟 Siti Fatimah's GitHub Profile
 
+### 📈 Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SitiFatimah0403&theme=react-dark&hide_border=true)
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=SitiFatimah0403&theme=onedark&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📊 GitHub Stats
