@@ -1,6 +1,6 @@
 ## 🌟 Siti Fatimah's GitHub Profile
 
-![snake gif](https://raw.githubusercontent.com/SitiFatimah0403/SitiFatimah0403/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/SitiFatimah0403/SitiFatimah0403/output/snake.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SitiFatimah0403&theme=onedark&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
