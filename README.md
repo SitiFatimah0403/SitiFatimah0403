@@ -22,7 +22,7 @@
 
 ## 🌟 Siti Fatimah's GitHub Profile
 
-![snake gif](https://raw.githubusercontent.com/SitiFatimah0403/SitiFatimah0403/output/dist/snake.svg)
+![GitHub Pet](https://github-profile-pet.vercel.app/api/pet?name=Fatimah&pet=hamster)
 
 
 ### 📈 Contribution Graph
