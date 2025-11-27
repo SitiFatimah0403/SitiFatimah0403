@@ -37,16 +37,30 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+
 ### 🔹 Databases
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔹 Blockchain & Web3 Development
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Sepolia](https://img.shields.io/badge/Sepolia_Testnet-62688F?style=for-the-badge&logo=ethereum&logoColor=white)
+![Sui](https://img.shields.io/badge/Sui_Network-6FBDFF?style=for-the-badge&logo=sui&logoColor=black)
+![OneChain](https://img.shields.io/badge/OneChain-Web3_Ecosystem-blueviolet?style=for-the-badge)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
+![OneWallet](https://img.shields.io/badge/OneWallet-OneChain-7E57C2?style=for-the-badge)
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-E6E6E6?style=for-the-badge&logo=ethereum&logoColor=black)
+![Move](https://img.shields.io/badge/Move_Language-000?style=for-the-badge)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge)
+![OneChain CLI](https://img.shields.io/badge/OneChain_CLI-6A1B9A?style=for-the-badge)
+
+
 
 ### 🔹 Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🔹 Tools & Others
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Tiled](https://img.shields.io/badge/Tiled_Map_Editor-333?style=for-the-badge&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
