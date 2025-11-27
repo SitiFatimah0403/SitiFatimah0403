@@ -22,6 +22,9 @@
 
 ## 🌟 Siti Fatimah's GitHub Profile
 
+![snake gif](https://raw.githubusercontent.com/SitiFatimah0403/SitiFatimah0403/output/dist/snake.svg)
+
+
 ### 📈 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SitiFatimah0403&theme=react-dark&hide_border=true)
 
