@@ -8,7 +8,7 @@
 ☁️ AI enthusiast  
 📊 Loves building dashboards (Power BI & Sheets)  
 🎮 Trying to develop more games hihi (Phaser.js)  
-🧠 Constantly learning — I believe in improving 1% every day  
+🧠 Constantly learning, I believe in improving 1% every day  
 💼 Balancing uni, projects, and learning new tech for my future career  
 🏃‍♀️ Usually goes for a run or a simple brisk walk around 5 PM to refresh my mind  
 💛 Easily excited by new features, aesthetics, and anything creative  
