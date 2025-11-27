@@ -46,7 +46,7 @@
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Sepolia](https://img.shields.io/badge/Sepolia_Testnet-62688F?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Sui](https://img.shields.io/badge/Sui_Network-6FBDFF?style=for-the-badge&logo=sui&logoColor=black)
-![OneChain](https://img.shields.io/badge/OneChain-Web3_Ecosystem-blueviolet?style=for-the-badge)
+
 ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
 ![OneWallet](https://img.shields.io/badge/OneWallet-OneChain-7E57C2?style=for-the-badge)
 ![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-E6E6E6?style=for-the-badge&logo=ethereum&logoColor=black)
