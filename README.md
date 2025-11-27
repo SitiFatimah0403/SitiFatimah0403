@@ -1,16 +1,13 @@
-## Hi there 👋
+## 🌟 Siti Fatimah's GitHub Profile
 
-<!--
-**SitiFatimah0403/SitiFatimah0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SitiFatimah0403&show_icons=true&theme=dark&hide_border=true)
 
-Here are some ideas to get you started:
+![GitHub Streak](https://streak-stats.demolab.com?user=SitiFatimah0403&theme=dark&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SitiFatimah0403&layout=compact&theme=dark&hide_border=true)
+
+
+## 🛠️ Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
