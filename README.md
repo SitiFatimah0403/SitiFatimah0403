@@ -1,13 +1,13 @@
 ## 🌟 Siti Fatimah's GitHub Profile
 
-![Fatimah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SitiFatimah0403&theme=tokyonight&show_icons=true)
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SitiFatimah0403&theme=onedark&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SitiFatimah0403&show_icons=true&theme=dark&hide_border=true)
+![Fatimah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SitiFatimah0403&theme=tokyonight&show_icons=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SitiFatimah0403&theme=dark&hide_border=true)
 
