@@ -84,7 +84,7 @@
 ![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-E6E6E6?style=for-the-badge&logo=ethereum&logoColor=black)
 ![Move](https://img.shields.io/badge/Move_Language-000?style=for-the-badge)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge)
-![OneChain CLI](https://img.shields.io/badge/OneChain_CLI-6A1B9A?style=for-the-badge)
+
 
 ---
 
