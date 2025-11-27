@@ -41,7 +41,7 @@
 
 ### 🔹 Databases
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 🔹 Blockchain & Web3 Development
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
@@ -55,6 +55,9 @@
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge)
 ![OneChain CLI](https://img.shields.io/badge/OneChain_CLI-6A1B9A?style=for-the-badge)
 
+### 🔹 Data Analytics & Visualization
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
 ### 🔹 Version Control
@@ -64,4 +67,6 @@
 ### 🔹 Tools & Others
 ![Tiled](https://img.shields.io/badge/Tiled_Map_Editor-333?style=for-the-badge&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 
