@@ -7,7 +7,7 @@
 
 
 ### 📊 GitHub Stats
-![Fatimah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SitiFatimah0403&theme=tokyonight&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SitiFatimah0403&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SitiFatimah0403&theme=dark&hide_border=true)
 
