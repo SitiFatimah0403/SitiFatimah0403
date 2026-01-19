@@ -25,17 +25,6 @@
 ### 📈 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SitiFatimah0403&theme=react-dark&hide_border=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SitiFatimah0403&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SitiFatimah0403&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SitiFatimah0403&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SitiFatimah0403&layout=compact&theme=dark&hide_border=true)
 
 ---
 
