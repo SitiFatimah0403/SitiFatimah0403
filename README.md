@@ -4,7 +4,7 @@
 
 ✨ 3rd year Software Engineering student  
 🧩 Into building web-based & hybrid systems (React, Flutter, Vite, Node.js)  
-🌐 Web3 explorer <br>
+🌐 Web3 explorer (currently, maybe hihi)<br>
 ☁️ AI enthusiast  
 📊 Loves building dashboards (Power BI & Sheets)  
 🎮 Trying to develop more games hihi (Phaser.js)  
